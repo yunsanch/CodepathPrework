@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. my macbook was crhasing a lot hence it took me a lil longer to complete, i will try to work on the additional features now, see if  i can implement to update the submition later
 
 ## License
 
