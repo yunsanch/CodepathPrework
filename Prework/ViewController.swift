@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
+        billAmountTextField.becomeFirstResponder()
         //sets the tittle in the navegation bar
         self.title = "Tip calculator"
     }
